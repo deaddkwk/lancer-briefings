@@ -109,12 +109,12 @@ export default {
           "mech": "SURGERY"
         },
         {
-          "callsign": "demo",
-          "alias": 'dismas',
-          "code": "d1fdf62e-d81e-4e10-97c8-df3bc4860117///NDL-C-DEEP-STATION//5a4254aa-9fa2-42ca-a077-8f5bfd1e1ad3",
-          "corpro": "si-val",
-          "frame": "mora-no",
-          "mech": "demoman"
+          "callsign": "KENSEI",
+          "alias": '텐류 츠루기',
+          "code": "d84526262e-d87e-4e10-99c8-df011qcc4867///GMS-MER-HAVENS-RING//ZDg0NTI2MjYyZS1kODdlLTRlMTAtOTljOC1kZjAxMXFjYzQ4Njc=",
+          "corpro": "GMS",
+          "frame": "EVEREST",
+          "mech": "SEN RYU"
         },
       ],
       "header": {
