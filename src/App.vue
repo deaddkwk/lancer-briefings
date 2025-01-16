@@ -95,7 +95,7 @@ export default {
       "missions": [
         {
           "slug": "001",
-          "name": "Bug-Hunt",
+          "name": "새로운 피",
           "status": "start"
         },
       ],
