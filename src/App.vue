@@ -109,7 +109,7 @@ export default {
           "mech": "SURGERY"
         },
         {
-          "callsign": "KENSEI",
+          "callsign": "Kensei",
           "alias": '텐류 츠루기',
           "code": "d84526262e-d87e-4e10-99c8-df011qcc4867///GMS-MER-HAVENS-RING//ZDg0NTI2MjYyZS1kODdlLTRlMTAtOTljOC1kZjAxMXFjYzQ4Njc=",
           "corpro": "GMS",
