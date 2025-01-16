@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "Genesis-8",
         "year": "5014u",
-        "system": "Ardennes-3",
-        "gate": "Atlas-Quanokrim",
-        "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
+        "system": "Noah-8",
+        "gate": "Atlas-Yuno",
+        "ring": "Atlas-151",
+        "headerTitle": "HEAVENS RING",
         "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "subheaderTitle": "General Massive Briefing Systems",
+        "subheaderSubtitle": "Online",
       },
       "options":{
         "eventsMarkdownPerMission": true
