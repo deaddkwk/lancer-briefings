@@ -148,6 +148,14 @@ export default {
           "frame": "CHOMOLUNGMA",
           "mech": "Schneewittchen"
         },
+        {
+          "callsign": "BAZZ",
+          "alias": '카코파푸카',
+          "code": "a15a01-c02742b6c07-4130-a335-6b09015///GMS-MER-HAVENS-RING//YTE1YTAxLWMwMjc0MmI2YzA3LTQxMzAtYTMzNS02YjA5MDE1",
+          "corpro": "GMS",
+          "frame": "EVEREST",
+          "mech": "KORAN"
+        },
       ],
       "header": {
         "planet": "Genesis-15",
