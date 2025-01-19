@@ -117,6 +117,14 @@ export default {
           "mech": "SEN RYU"
         },
         {
+          "callsign": "Hound",
+          "alias": '하티',
+          "code": "678dc392&is=678c7212&hm=325a8bdc4d8f///GMS-MER-HAVENS-RING//Njc4ZGMzOTImaXM9Njc4YzcyMTImaG09MzI1YThiZGM0ZDhm",
+          "corpro": "GMS",
+          "frame": "EVEREST",
+          "mech": "Fenrir"
+        },
+        {
           "callsign": "Old man",
           "alias": '도노반 오스틴',
           "code": "d456o-7n57-57-b76a-asd9n44o-00s4ti-75n///GMS-MER-HAVENS-RING//ZDQ1Nm8tN241Ny01Ny1iNzZhOW40NG8tMDBzNHRpLTc1bg==",
@@ -131,6 +139,14 @@ export default {
           "corpro": "GMS",
           "frame": "EVEREST",
           "mech": "MICHAEL"
+        },
+        {
+          "callsign": "Winter",
+          "alias": '에페스',
+          "code": "6b09015a-c027-4130-a335-15a0142b6c07///GMS-MER-HAVENS-RING//NmIwOTAxNWEtYzAyNy00MTMwLWEzMzUtMTVhMDE0MmI2YzA3",
+          "corpro": "GMS",
+          "frame": "CHOMOLUNGMA",
+          "mech": "Snow White"
         },
       ],
       "header": {
