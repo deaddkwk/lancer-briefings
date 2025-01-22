@@ -164,6 +164,14 @@ export default {
           "frame": "CHOMOLUNGMA",
           "mech": "ALEPH STIGMA"
         },
+        {
+          "callsign": "LAUGHING GAS",
+          "alias": '제인 도우',
+          "code": "67923-c5&is-6790-d45&hm=d420b5-8e95ed///GMS-MER-HAVENS-RING//Njc5MjMtYzUmaXMtNjc5MC1kNDUmaG09ZDQyMGI1LThlOTVlZA==",
+          "corpro": "GMS",
+          "frame": "SAGARMATHA",
+          "mech": "AK-4007"
+        },
       ],
       "header": {
         "planet": "Genesis-15",
