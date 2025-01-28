@@ -136,9 +136,9 @@ export default {
           "callsign": "Friday",
           "alias": '드라이젠',
           "code": "6b09015a-c027-4130-a335-15a0142b6c07///GMS-MER-HAVENS-RING//NmIwOTAxNWEtYzAyNy00MTMwLWEzMzUtMTVhMDE0MmI2YzA3",
-          "corpro": "GMS",
-          "frame": "EVEREST",
-          "mech": "MICHAEL"
+          "corpro": "HA",
+          "frame": "Gilgamesh",
+          "mech": "JASON"
         },
         {
           "callsign": "Winter",
