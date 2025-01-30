@@ -160,9 +160,9 @@ export default {
           "callsign": "ARCHON",
           "alias": '샤아카',
           "code": "6792-51is-679-d85hm-5ef3dc-13ba///GMS-MER-HAVENS-RING//Njc5Mi01MWlzLTY3OS1kODVobS01ZWYzZGMtMTNiYQ==",
-          "corpro": "GMS",
-          "frame": "CHOMOLUNGMA",
-          "mech": "ALEPH STIGMA"
+          "corpro": "Horus",
+          "frame": "LICH",
+          "mech": "Sanctus Insigni"
         },
         {
           "callsign": "LAUGHING GAS",
