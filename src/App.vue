@@ -98,6 +98,11 @@ export default {
           "name": "새로운 피",
           "status": "start"
         },
+        {
+          "slug": "002",
+          "name": "메카니컬 L.O.V.E",
+          "status": "start"
+        },
       ],
       "pilots": [
         {
