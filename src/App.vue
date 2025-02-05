@@ -117,9 +117,9 @@ export default {
           "callsign": "Kensei",
           "alias": '텐류 츠루기',
           "code": "d84526262e-d87e-4e10-99c8-df011qcc4867///GMS-MER-HAVENS-RING//ZDg0NTI2MjYyZS1kODdlLTRlMTAtOTljOC1kZjAxMXFjYzQ4Njc=",
-          "corpro": "GMS",
-          "frame": "EVEREST",
-          "mech": "SEN RYU"
+          "corpro": "IPS-N",
+          "frame": "NELSON",
+          "mech": "Dragonblade"
         },
         {
           "callsign": "Hound",
@@ -127,7 +127,7 @@ export default {
           "code": "678dc392&is=678c7212&hm=325a8bdc4d8f///GMS-MER-HAVENS-RING//Njc4ZGMzOTImaXM9Njc4YzcyMTImaG09MzI1YThiZGM0ZDhm",
           "corpro": "GMS",
           "frame": "EVEREST",
-          "mech": "Fenrir"
+          "mech": "Fenrir(R)"
         },
         {
           "callsign": "Old man",
@@ -157,9 +157,9 @@ export default {
           "callsign": "BAZZ",
           "alias": '카코파푸카',
           "code": "a15a01-c02742b6c07-4130-a335-6b09015///GMS-MER-HAVENS-RING//YTE1YTAxLWMwMjc0MmI2YzA3LTQxMzAtYTMzNS02YjA5MDE1",
-          "corpro": "GMS",
-          "frame": "EVEREST",
-          "mech": "KORAN"
+          "corpro": "SSC",
+          "frame": "AMBER PHANTOM",
+          "mech": "Locusta"
         },
         {
           "callsign": "ARCHON",
