@@ -109,9 +109,9 @@ export default {
           "callsign": "GOLDEN HOUR",
           "alias": "빅터 맥스웰 지킬",
           "code": "567158be-1qf5-49c2-77s7-ccf3a5975a96///GMS-MER-HAVENS-RING//NTY3MTU4YmUtMXFmNS00OWMyLTc3czctY2NmM2E1OTc1YTk2",
-          "corpro": "GMS",
-          "frame": "SAGARMATHA",
-          "mech": "SURGERY"
+          "corpro": "Horus",
+          "frame": "Balor",
+          "mech": "Stethoscope(P)"
         },
         {
           "callsign": "Kensei",
