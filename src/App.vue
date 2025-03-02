@@ -111,7 +111,7 @@ export default {
           "code": "567158be-1qf5-49c2-77s7-ccf3a5975a96///GMS-MER-HAVENS-RING//NTY3MTU4YmUtMXFmNS00OWMyLTc3czctY2NmM2E1OTc1YTk2",
           "corpro": "Horus",
           "frame": "Balor",
-          "mech": "Stethoscope(P)"
+          "mech": "Stethoscope"
         },
         {
           "callsign": "Kensei",
@@ -120,14 +120,6 @@ export default {
           "corpro": "IPS-N",
           "frame": "NELSON",
           "mech": "Dragonblade"
-        },
-        {
-          "callsign": "Hound",
-          "alias": '하티',
-          "code": "678dc392&is=678c7212&hm=325a8bdc4d8f///GMS-MER-HAVENS-RING//Njc4ZGMzOTImaXM9Njc4YzcyMTImaG09MzI1YThiZGM0ZDhm",
-          "corpro": "GMS",
-          "frame": "EVEREST",
-          "mech": "Fenrir(R)"
         },
         {
           "callsign": "Old man",
@@ -166,8 +158,8 @@ export default {
           "alias": '샤아카',
           "code": "6792-51is-679-d85hm-5ef3dc-13ba///GMS-MER-HAVENS-RING//Njc5Mi01MWlzLTY3OS1kODVobS01ZWYzZGMtMTNiYQ==",
           "corpro": "Horus",
-          "frame": "LICH",
-          "mech": "Sanctus Insigni"
+          "frame": "CALENDULA",
+          "mech": "Kýrie Pneumatikon"
         },
         {
           "callsign": "LAUGHING GAS",
